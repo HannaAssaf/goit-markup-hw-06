@@ -363,7 +363,6 @@ margin-bottom: 72px;
     line-height: 1.5;
     color: #434455;
     width: calc((100% - 48px) / 3);
-    
 }
 
 .overlay-portfolio-img {
@@ -539,6 +538,7 @@ margin-bottom: 16px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     resize: none;
     padding: 8px 16px;
+    margin-right: 24px;
     
     
 
