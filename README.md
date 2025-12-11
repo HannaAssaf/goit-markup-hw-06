@@ -2,7 +2,7 @@
 
 # 🎨 WebStudio — Layout, Animation & Responsive Practice
 
-### _HTML + CSS learning project focusing on layout, animations, modal interactions and responsive design._
+### _HTML + CSS project focusing on layout, animations, modal interactions and responsive design._
 
 <img src="https://img.shields.io/badge/project-Practice-blue" />
 <img src="https://img.shields.io/badge/skills-HTML5-orange" />
